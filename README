@@ -1,2 +1,32 @@
 The following code was used to create a report showing the different obesity rates in the 50 states of the United States. 
 The states were then divided into regions. These regions were then used to show the effect of leisure-time physical activity and obesity. 
+
+
+
+
+For the section of the code that tracks the percentage of adults who engage in no leisure-time physical activity, the code finds the following results. 
+
+To save time on showing the state by state results, the results are delivered by region. 
+
+The regions are segmented as follows
+    West Coast (Oregon, Washington, California)
+    Mountain West (Utah, Idaho, Colorado, Wyoming, Montana, Nevada)
+    Southwest (New Mexico, Arizona, Texas)
+    Great Plains (North Dakota, South Dakota, Nebraska, Kansas, Oklahoma)
+    Midwest (Minnesota, Iowa, Illinois, Michigan, Wisconsin, Ohio, Indiana, Missouri)
+    South (Kentucky, Tennessee, Mississippi, Arkansas, Alabama, Louisiana, North Carolina, South Carolina, Georgia, Florida)
+    Mid-Atlantic (Virginia, West Virginia, Pennslyvania, New York, Maryland, New Jersey, Delaware)
+    New England (Maine, New Hampshire, Vermont, Connecticut, Massachusetts, Rhode Island)
+    AlaskaHawaii (Alaska, Hawaii)
+
+The following are the results for survey instances of a state having less than 10% of respondants reporting that they engage in no leisure-time physical activity. 
+
+AlaskaHawaii 6
+West Coast 21
+Mountain West 43
+Southwest 5
+Great Plains 2
+Midwest 13
+South 7
+Mid-Atlantic 0
+New England 35
